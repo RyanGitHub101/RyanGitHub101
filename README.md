@@ -12,4 +12,4 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 - ⚡ Fun fact: There are over 700 programming languages! 
 
 
-
+<img src = "https://upload.wikimedia.org/wikipedia/commons/e/e2/Atom_1.0_icon.png">
