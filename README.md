@@ -1,5 +1,7 @@
 ### Hi there 👋,
 
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width = 50px> About Me:
+
 
 <h2> My tools and technologies </h2>
 
@@ -8,6 +10,6 @@
 <img src = "https://miro.medium.com/max/512/1*314zAbKFKYTuxHNwRO07SA.png" width = 145px>
 </p>
 
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width = 50px> About Me:
--- 
+
+
 
