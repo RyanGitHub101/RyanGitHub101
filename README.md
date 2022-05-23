@@ -1,9 +1,13 @@
-### Hi there 👋, My name is Ryan
-#### Frontend Development
-![Frontend Development](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+### Hi there 👋,
 
 
-<h1> My tools and technologies </h1>
-<img src = "https://upload.wikimedia.org/wikipedia/commons/e/e2/Atom_1.0_icon.png" width = 150px >
-<img src = "https://www.freeiconspng.com/thumbs/html5-icon/w3c-html5-logo-0.png" width = 150px>
+<h2> My tools and technologies </h2>
+
+<p align = "center">
+<img  src = "https://upload.wikimedia.org/wikipedia/commons/e/e2/Atom_1.0_icon.png" width = 80px>
+<img src = "https://miro.medium.com/max/512/1*314zAbKFKYTuxHNwRO07SA.png" width = 145px>
+</p>
+
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width = 50px> About Me:
+-- 
 
