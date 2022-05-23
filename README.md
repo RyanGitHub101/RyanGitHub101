@@ -1,9 +1,15 @@
-### Hi there 👋
+### Hi there 👋, My name is Ryan
+#### Frontend Development
+![Frontend Development](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<html>
-  <body>
-    <ol>
-      <ul> Hello
-    </ol>
-  </body>
-  </html>
+Not sure
+
+Skills: VUE JS / REACT / JS / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning HTML5 / CSS3 / Javascript programming 
+- 📫 How to reach me: https://www.linkedin.com/in/ryan-medina-148396236/ 
+- ⚡ Fun fact: There are over 700 programming languages! 
+
+
+
