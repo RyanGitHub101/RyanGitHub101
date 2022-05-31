@@ -7,7 +7,7 @@
 
 <p align = "center">
 <img  src = "https://upload.wikimedia.org/wikipedia/commons/e/e2/Atom_1.0_icon.png" width = 80px>
-<img src = "https://miro.medium.com/max/512/1*314zAbKFKYTuxHNwRO07SA.png" width = 145px>
+<img src = "https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" width = 70px>
 </p>
 
 
